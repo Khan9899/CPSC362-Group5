@@ -9,6 +9,4 @@ Group Members:
 Elizabeth Zimmerman
 Nathan Tran
 Ankit Patel
-Zahid Gul
-Karim Sologuren
-Kaitlin Frani
+zahid gul
